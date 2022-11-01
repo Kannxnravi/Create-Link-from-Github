@@ -9,7 +9,7 @@
 4.Run the below command in any Python online compiler or your IDE
 
 ### Your link goes here
-link = **`"https://github.com/knightlab-analyses/qurro-mackerel-analysis/blob/master/AnalysisOutput/qurro-plot.qzv"`**
+**`link = "https://github.com/knightlab-analyses/qurro-mackerel-analysis/blob/master/AnalysisOutput/qurro-plot.qzv"`**
 
 ### Paste the link of your resume copy link address above 
 
